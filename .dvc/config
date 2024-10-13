@@ -3,4 +3,4 @@
 [core]
     remote = data
 ['remote "data"']
-    url = gs://my_mlops_bucket/dvcstore
+    url = gs:///dvcstore
