@@ -11,3 +11,4 @@ train:
   conv_size: 64
   dense_size: 128
   output_classes: 11
+  
