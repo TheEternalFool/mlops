@@ -1,5 +1,3 @@
-[plots]
-    auto_open = true
 [core]
     remote = data
 ['remote "data"']
